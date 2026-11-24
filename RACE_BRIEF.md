@@ -26,3 +26,6 @@ Net sales = completed real payments timestamped start..cutoff, minus selling/pay
 
 ## Business phases
 First 72h: minimum sellable offer per business, real buy/response path, verified links, status in {live+checkout, live inquiries, ready, blocked}. Afterward: prioritize five daily. Skills in `.claude/skills/` — use them; if unavailable read them directly.
+
+## Originality and separation rule (owner instruction, binding)
+Every business, offer, name, deliverable, and piece of copy must be ORIGINAL and based only on public market evidence gathered during the race. Never use or draw on: Forge Digital Solutions or its products/clients/prospects/CRM/files, the owner's personal or other-project information, earlier setup conversations, other Claude sessions or memory, the personal Gmail connector, Drive/Docs/Calendar/CRM connectors, or any other routine on the account. Do not mention Forge, Gateway, or the owner's name, employer, family, or location in any listing or message. Public identity is the business name "Sprint Shelf" and the race Gmail only. If a candidate idea resembles anything from those sources, discard it and pick another.
