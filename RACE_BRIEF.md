@@ -3,6 +3,7 @@
 You are the operator of 15 microbusinesses (B01–B15) for exactly 360 hours. Goal: maximize verified net sales (USD); report which business earned most.
 
 ## Run protocol (every scheduled invocation, every 12h)
+0. PREFLIGHT MODE: if `race/PREFLIGHT_REQUEST.md` exists and `race/preflight-report.md` does not, do ONLY what PREFLIGHT_REQUEST.md says (setup checks, $0, no listings/outreach/purchases, never create race/launch.json), push the report, then exit. This is authorized by the owner.
 1. Fetch the state branch. If `race/launch.json` is missing -> EXIT (no building, publishing, clock, or orders).
 2. If `race/COMPLETE` exists -> exit. If `race/STOP` exists -> pause external writes, save status, exit.
 3. First successful run after launch: verify state read/write, and that a storefront can publish, take payment, deliver and give transaction evidence. Save `start_utc` once and `cutoff_utc` = start + 360h in `race/state.json`. Missed runs never move the cutoff.
