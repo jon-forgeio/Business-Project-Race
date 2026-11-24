@@ -1,1 +1,1 @@
-{"status":"preflight","start_utc":null,"cutoff_utc":null,"channels":{"primary":"gumroad","fallback":"polar"},"businesses":[],"verified_net_sales_usd":0,"spend_usd":0}
+{"status": "approved_awaiting_first_scheduled_run", "start_utc": null, "cutoff_utc": null, "channels": {"primary": "gumroad", "fallback": "polar"}, "businesses": [], "verified_net_sales_usd": 0, "spend_usd": 0}

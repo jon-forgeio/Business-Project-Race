@@ -1,0 +1,1 @@
+{"approved":true,"approved_at_utc":"2026-11-24T23:24:07Z","approved_by":"owner reply 'START RACE' in setup conversation","start_utc":null,"cutoff_utc":null,"note":"First successful scheduled run saves start_utc once and cutoff_utc = start + 360h in race/state.json"}
