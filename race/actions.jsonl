@@ -93,3 +93,4 @@
 {"id": "deploy:site:netlify:v2-guides", "op": "deploy_site", "channel": "netlify", "operator": "setup-session", "ts": "2026-11-25T02:50:45Z", "result": "pending"}
 {"id": "post:mastodon:B01:toast-structure-v1", "op": "post_status", "channel": "mastodon.social", "business": "B01", "ts": "2026-11-25T02:53:45Z", "result": "published", "url": "https://mastodon.social/@sprintshelf/117674806348212507"}
 {"id": "deploy:site:netlify:v2-guides", "op": "deploy_site", "channel": "netlify", "ts": "2026-11-25T02:53:45Z", "result": "done", "pages": 22, "verified": "home, guides, sitemap return 200; IndexNow submitted (202)"}
+{"id": "deploy:site:netlify:v3-b05-b06-guides", "op": "deploy_site", "channel": "netlify", "ts": "2026-11-25T03:20:00Z", "result": "done", "pages": 24, "verified": "home 200; IndexNow 200; added B06 guide etsy-listing-title-checklist and redeployed with B05 guide"}

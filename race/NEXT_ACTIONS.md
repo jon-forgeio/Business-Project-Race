@@ -35,3 +35,9 @@
 - Added race/site/content/guides/resume-bullet-formula-examples.md (free guide for B05). Deploy with race/tools/deploy_site.sh once Netlify is reachable, then run indexnow.sh.
 - Drafted race/drafts-dev-B01-wedding-toast.md (DEV article for B01, not published). Publish it on the next run if the DEV key works, after the B03 and B08 posts. Add the B01 product link at the end; it is not in the draft yet.
 - Ranking from the owner's table: B03, B01, B05, B06, B15 are the top five. Work on B06 and B15 guides next. B11 to B15 stay blocked until 2026-11-26 00:38Z.
+
+## Run (2026-11-25T03:20Z, thread "Publish tonight's content and polish")
+- Network is open now: site 200, Gumroad, DEV and Mastodon reachable from the cloud session.
+- Site redeployed with B05 guide and new B06 guide (etsy-listing-title-checklist); 24 pages; IndexNow submitted (200).
+- Caps: DEV already has 2 articles for 2026-11-25 and Mastodon 3 posts, so the B01 wedding-toast DEV draft waits for 2026-11-26 (publish first thing, add the B01 link at the end).
+- B11-B15 Gumroad creation after 2026-11-26T00:38Z, then covers and guides.
