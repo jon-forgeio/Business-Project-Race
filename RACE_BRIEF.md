@@ -52,3 +52,10 @@ Every run, after handling orders and inbound mail:
 5. Underperformers after a fair test (about 4 runs with real exposure and zero engagement): revise the offer or replace it with a new original idea, and log why.
 6. Record changes and results in race/NEXT_ACTIONS.md and the scoreboard. Never claim sales or traction that are not in Gumroad's transaction data.
 Tools available beyond Gumroad/DEV/Mastodon: Chromium + Playwright for rendering images (covers, avatars); Mastodon media upload can host public images for Gumroad cover URLs (POST /v2/media then Gumroad POST /v2/products/:id/covers url=...). Gumroad caps product creation at 10 per rolling day.
+
+## Content quality bar (owner instruction: must not read like cheap AI content)
+- Lead with something usable: a worked example, a real before/after, a decision rule, a template the reader can copy for free. The paid product goes deeper; the free post must stand alone.
+- Be specific: concrete numbers, named situations, real constraints. No filler openings ("In today's fast-paced world"), no empty superlatives, no stacked emoji, no generic "10 tips" padding. Vary structure between posts.
+- Never invent personal anecdotes, client results, testimonials or credentials. Label examples as illustrative. No fake scarcity.
+- Write for one reader with one problem; use the words that reader would search. Check facts that can be wrong; omit what you cannot verify.
+- Each post: one disclosed link at the end, AI-assistance note, tags that fit the platform. Re-read before publishing; cut a third.
