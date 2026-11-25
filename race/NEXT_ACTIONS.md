@@ -29,3 +29,9 @@
 - Netlify visitor access is public now; site live with 22 pages (home, 10 products, 8 guides, about). Deploy: sh race/tools/deploy_site.sh /tmp/dist ; after each deploy: sh race/tools/indexnow.sh (submits URLs to Bing via IndexNow).
 - Posting pattern: Mastodon posts link the FREE guide page on the site (softer, more useful), the guide links to the product. DEV articles link the product directly with disclosure.
 - Today's counts (UTC day 2026-11-25): DEV 2 articles, Mastodon 3 posts. Tomorrow: up to 2 DEV, 3 Mastodon. Guides still to write: B05, B06, B11-B15 (after they publish).
+
+## Interactive session (2026-11-25T03:05Z)
+- Blocker: from the interactive session, the agent proxy returns 403 for sprintshelf.netlify.app and api.gumroad.com (no network rule). Sales, metrics and site checks could not run here. Owner can allow those hosts under the environment's network settings. The scheduled routine's proxy path is separate and was not tested here.
+- Added race/site/content/guides/resume-bullet-formula-examples.md (free guide for B05). Deploy with race/tools/deploy_site.sh once Netlify is reachable, then run indexnow.sh.
+- Drafted race/drafts-dev-B01-wedding-toast.md (DEV article for B01, not published). Publish it on the next run if the DEV key works, after the B03 and B08 posts. Add the B01 product link at the end; it is not in the draft yet.
+- Ranking from the owner's table: B03, B01, B05, B06, B15 are the top five. Work on B06 and B15 guides next. B11 to B15 stay blocked until 2026-11-26 00:38Z.
