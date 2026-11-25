@@ -3,3 +3,8 @@
 - Gumroad caps product CREATION at 10 per rolling day. B11-B15 content is written (race/assets/B11-B15.md). Create+publish them after 2026-11-26T00:38Z: POST /v2/products (name, price, published=false) -> PUT description/custom_receipt/tags[] -> PUT rich_content (JSON body) -> PUT /enable. Verify short URL 200. Updating existing products is not capped.
 - Every run: check Gumroad /v2/sales and race Gmail for orders first. Services B05, B06 (and B15 when live) are fulfilled by email within 48h from the race Gmail.
 - Then work distribution for all 15; no spam, no fake reviews; only explicit public requests and channels with an account.
+
+## Channels (updated)
+- DEV article 1 live (B08). Mastodon post 1 live (B03). Both credentials are proxy-injected and verified.
+- Next: one new DEV article per run (rotate B03, B05, B07, B10, B02, B15) and up to 3 Mastodon posts per day, spread across the other products. Check race/actions.jsonl so topics never repeat.
+- Pending: B11-B15 Gumroad creation after 2026-11-26T00:38Z (daily product cap).
