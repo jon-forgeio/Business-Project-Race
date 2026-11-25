@@ -1,1 +1,22 @@
-{"status": "approved_awaiting_first_scheduled_run", "start_utc": null, "cutoff_utc": null, "channels": {"primary": "gumroad", "fallback": "polar"}, "businesses": [], "verified_net_sales_usd": 0, "spend_usd": 0}
+{
+ "status": "running",
+ "start_utc": "2026-11-25T00:17:55Z",
+ "cutoff_utc": "2026-12-10T00:17:55Z",
+ "channels": {
+  "primary": "gumroad",
+  "fallback": "polar"
+ },
+ "businesses": [],
+ "verified_net_sales_usd": 0,
+ "spend_usd": 0,
+ "last_run_utc": "2026-11-25T00:17:55Z",
+ "run_count": 1,
+ "verification": {
+  "state_rw": "pass",
+  "gumroad_api": "pass (preflight)",
+  "polar_api": "pass (preflight)",
+  "gmail": "pass (preflight)",
+  "file_attach": "gumroad no API file attach; deliver via content/redirect or Polar",
+  "payment_delivery_evidence": "unverified until first real sale"
+ }
+}
