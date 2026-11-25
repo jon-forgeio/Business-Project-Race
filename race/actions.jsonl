@@ -1,2 +1,10 @@
 {"id": "run1-claim", "op": "claim_run_slot", "ts": "2026-11-25T00:17:55Z", "result": "done"}
 {"id":"run1b-manual-claim","op":"claim_run_slot","operator":"setup-session (owner requested immediate retry of failed run 1)","ts":"2026-11-25T00:34:29Z","result":"done"}
+{"id": "publish:B01:gumroad:v1", "op": "create_and_publish_product", "business": "B01", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T00:37:33Z", "result": "pending"}
+{"id": "publish:B02:gumroad:v1", "op": "create_and_publish_product", "business": "B02", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T00:37:33Z", "result": "pending"}
+{"id": "publish:B03:gumroad:v1", "op": "create_and_publish_product", "business": "B03", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T00:37:33Z", "result": "pending"}
+{"id": "publish:B04:gumroad:v1", "op": "create_and_publish_product", "business": "B04", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T00:37:33Z", "result": "pending"}
+{"id": "publish:B05:gumroad:v1", "op": "create_and_publish_product", "business": "B05", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T00:37:33Z", "result": "pending"}
+{"id": "publish:B06:gumroad:v1", "op": "create_and_publish_product", "business": "B06", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T00:37:33Z", "result": "pending"}
+{"id": "publish:B07:gumroad:v1", "op": "create_and_publish_product", "business": "B07", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T00:37:33Z", "result": "pending"}
+{"id": "publish:B08:gumroad:v1", "op": "create_and_publish_product", "business": "B08", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T00:37:33Z", "result": "pending"}
