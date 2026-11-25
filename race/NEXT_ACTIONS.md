@@ -46,3 +46,8 @@
 - Orders: Gumroad /v2/sales empty; race Gmail has no buyer/inbound mail (only account notifications). Metrics: DEV 2 articles x10 views, 0 reactions; Mastodon 3 posts, 0 engagement. $0 sales so far.
 - Caps for UTC 2026-11-25 already used (DEV 2, Mastodon 3, Gumroad creates 10). No new public writes this run.
 - Next run after 2026-11-26T00:38Z: create B11-B15 on Gumroad, publish B01 DEV draft (race/drafts-dev-B01-wedding-toast.md), attach covers, write guides.
+
+## Copy test (2026-11-25T19:50Z, thread-driven, Jon approved the push)
+- Changed only the opening paragraph of two Gumroad descriptions: Podcast Guest Pitch Email Pack and 10-Minute Wedding Toast Kit. Prices unchanged.
+- Originals saved in race/copytest-2026-11-25.md. Logged in race/actions.jsonl.
+- Judge around 2026-11-29 using Gumroad views and sales. Do not change either price during the test window.
