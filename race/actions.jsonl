@@ -86,3 +86,4 @@
 {"id": "post:mastodon:B02:etsy-weekly-admin-v1", "op": "post_status", "channel": "mastodon.social", "business": "B02", "ts": "2026-11-25T02:20:59Z", "result": "published", "url": "https://mastodon.social/@sprintshelf/117674688608858440"}
 {"id": "post:dev:B03:resume-bullets-before-after-v1", "op": "publish_article", "channel": "dev.to", "business": "B03", "operator": "setup-session", "ts": "2026-11-25T02:28:39Z", "result": "pending"}
 {"id": "post:dev:B03:resume-bullets-before-after-v1", "op": "publish_article", "channel": "dev.to", "business": "B03", "ts": "2026-11-25T02:28:49Z", "result": "published", "article_id": 5112548, "url": "https://dev.to/sprintshelf/resume-bullets-that-say-nothing-before-and-after-rewrites-for-five-roles-16pe"}
+{"id": "create:site:netlify:sprintshelf:v1", "op": "create_site", "channel": "netlify", "operator": "setup-session", "ts": "2026-11-25T02:43:38Z", "result": "pending"}
