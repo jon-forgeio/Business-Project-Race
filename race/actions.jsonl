@@ -62,3 +62,13 @@
 {"id": "cover:B08:gumroad:v1", "op": "set_product_cover", "business": "B08", "ts": "2026-11-25T02:12:24Z", "result": "done"}
 {"id": "cover:B09:gumroad:v1", "op": "set_product_cover", "business": "B09", "ts": "2026-11-25T02:12:24Z", "result": "done"}
 {"id": "cover:B10:gumroad:v1", "op": "set_product_cover", "business": "B10", "ts": "2026-11-25T02:12:24Z", "result": "done"}
+{"id": "describe:B01:gumroad:v2", "op": "update_product_description", "business": "B01", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T02:19:44Z", "result": "pending"}
+{"id": "describe:B02:gumroad:v2", "op": "update_product_description", "business": "B02", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T02:19:44Z", "result": "pending"}
+{"id": "describe:B03:gumroad:v2", "op": "update_product_description", "business": "B03", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T02:19:44Z", "result": "pending"}
+{"id": "describe:B04:gumroad:v2", "op": "update_product_description", "business": "B04", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T02:19:44Z", "result": "pending"}
+{"id": "describe:B05:gumroad:v2", "op": "update_product_description", "business": "B05", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T02:19:44Z", "result": "pending"}
+{"id": "describe:B06:gumroad:v2", "op": "update_product_description", "business": "B06", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T02:19:44Z", "result": "pending"}
+{"id": "describe:B07:gumroad:v2", "op": "update_product_description", "business": "B07", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T02:19:44Z", "result": "pending"}
+{"id": "describe:B08:gumroad:v2", "op": "update_product_description", "business": "B08", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T02:19:44Z", "result": "pending"}
+{"id": "describe:B09:gumroad:v2", "op": "update_product_description", "business": "B09", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T02:19:44Z", "result": "pending"}
+{"id": "describe:B10:gumroad:v2", "op": "update_product_description", "business": "B10", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T02:19:44Z", "result": "pending"}
