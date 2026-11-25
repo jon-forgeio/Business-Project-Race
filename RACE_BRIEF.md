@@ -29,3 +29,10 @@ First 72h: minimum sellable offer per business, real buy/response path, verified
 
 ## Originality and separation rule (owner instruction, binding)
 Every business, offer, name, deliverable, and piece of copy must be ORIGINAL and based only on public market evidence gathered during the race. Never use or draw on: Forge Digital Solutions or its products/clients/prospects/CRM/files, the owner's personal or other-project information, earlier setup conversations, other Claude sessions or memory, the personal Gmail connector, Drive/Docs/Calendar/CRM connectors, or any other routine on the account. Do not mention Forge, Gateway, or the owner's name, employer, family, or location in any listing or message. Public identity is the business name "Sprint Shelf" and the race Gmail only. If a candidate idea resembles anything from those sources, discard it and pick another.
+
+## Run depth and pace (owner-visible correction after run 1)
+Run 1 only started the clock and exited in under a minute. That is not enough: runs are 12 hours apart, so every run must do substantial work, not just bookkeeping. Rules:
+- Do not end a run after claiming the slot. Keep working until the run's action list is done or you are genuinely blocked; log any blocker and use the fallback.
+- Run 2 must complete demand research for all 15 candidates (original, public evidence only), write race/businesses/Bxx.md for each (buyer, price, offer, deliverable, channel, next test), and publish as many as can honestly be made sellable with a real checkout + working delivery path. Target: at least 8 live with checkout in run 2, all 15 on the board (live or documented blocker) by run 4 (hour 72).
+- Delivery paths: Gumroad has no file-attach API, so on Gumroad deliver via product content/description text, a link you control, or a fixed-scope service fulfilled by email from the race Gmail. Use Polar for downloadable files only if its first-payout review has cleared; check that before listing. Create Polar products with visibility private until ready.
+- Use parallel subagents for research/build when available, and one operator for ledger and public writes.
