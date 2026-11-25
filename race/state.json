@@ -8,7 +8,17 @@
   "content": [
    "dev.to/sprintshelf",
    "mastodon.social/@sprintshelf"
-  ]
+  ],
+  "site": {
+   "host": "netlify",
+   "site_id": "1f4c2caf-93e8-44c7-87d8-0a7f5d60ea51",
+   "url": "https://sprintshelf.netlify.app",
+   "status": "deployed_but_private_behind_netlify_team_login",
+   "blocker": "Owner must disable Netlify visitor login protection for the team/site; agent was blocked from changing this security setting."
+  },
+  "dropped": {
+   "hashnode": "API requires paid Pro plan since 2026-05 (breaks $0 budget)"
+  }
  },
  "businesses": [
   {
