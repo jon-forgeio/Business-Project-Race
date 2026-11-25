@@ -1,16 +1,16 @@
 business,verified_net_usd,status,link
-B01,0,not_started (run 1: clock started, no offer built),
-B02,0,not_started (run 1: clock started, no offer built),
-B03,0,not_started (run 1: clock started, no offer built),
-B04,0,not_started (run 1: clock started, no offer built),
-B05,0,not_started (run 1: clock started, no offer built),
-B06,0,not_started (run 1: clock started, no offer built),
-B07,0,not_started (run 1: clock started, no offer built),
-B08,0,not_started (run 1: clock started, no offer built),
-B09,0,not_started (run 1: clock started, no offer built),
-B10,0,not_started (run 1: clock started, no offer built),
-B11,0,not_started (run 1: clock started, no offer built),
-B12,0,not_started (run 1: clock started, no offer built),
-B13,0,not_started (run 1: clock started, no offer built),
-B14,0,not_started (run 1: clock started, no offer built),
-B15,0,not_started (run 1: clock started, no offer built),
+B01,0,ready to publish (blocked: Gumroad payout method not set),https://businessrace.gumroad.com/l/rtbyanv
+B02,0,ready to publish (blocked: Gumroad payout method not set),https://businessrace.gumroad.com/l/ovfudt
+B03,0,ready to publish (blocked: Gumroad payout method not set),https://businessrace.gumroad.com/l/nhxmzf
+B04,0,ready to publish (blocked: Gumroad payout method not set),https://businessrace.gumroad.com/l/upakjg
+B05,0,ready to publish (blocked: Gumroad payout method not set),https://businessrace.gumroad.com/l/coiyeb
+B06,0,ready to publish (blocked: Gumroad payout method not set),https://businessrace.gumroad.com/l/apfxk
+B07,0,ready to publish (blocked: Gumroad payout method not set),https://businessrace.gumroad.com/l/sotpbv
+B08,0,ready to publish (blocked: Gumroad payout method not set),https://businessrace.gumroad.com/l/stcfjq
+B09,0,planned (not built),
+B10,0,planned (not built),
+B11,0,planned (not built),
+B12,0,planned (not built),
+B13,0,planned (not built),
+B14,0,planned (not built),
+B15,0,planned (not built),

@@ -6,11 +6,117 @@
   "primary": "gumroad",
   "fallback": "polar"
  },
- "businesses": [],
+ "businesses": [
+  {
+   "id": "B01",
+   "name": "The 10-Minute Wedding Toast Kit",
+   "status": "ready_to_publish_blocked_payout_method",
+   "gumroad_product_id": "oH7JWuVaamUaL9nrDUbaAQ==",
+   "url": "https://businessrace.gumroad.com/l/rtbyanv"
+  },
+  {
+   "id": "B02",
+   "name": "Etsy Digital Product Shop SOP Pack (12 Checklists)",
+   "status": "ready_to_publish_blocked_payout_method",
+   "gumroad_product_id": "XgRqxKKczta4gWC15eor4Q==",
+   "url": "https://businessrace.gumroad.com/l/ovfudt"
+  },
+  {
+   "id": "B03",
+   "name": "Layoff Week One: The 7-Day Job Search Restart Plan",
+   "status": "ready_to_publish_blocked_payout_method",
+   "gumroad_product_id": "G1fF4IClZ8ec4XSxoFSBuw==",
+   "url": "https://businessrace.gumroad.com/l/nhxmzf"
+  },
+  {
+   "id": "B04",
+   "name": "Short-Term Rental Guest Message Pack (21 Templates)",
+   "status": "ready_to_publish_blocked_payout_method",
+   "gumroad_product_id": "Fy67aIuQY4TzEDgJ1fYIAA==",
+   "url": "https://businessrace.gumroad.com/l/upakjg"
+  },
+  {
+   "id": "B05",
+   "name": "Resume Bullet Rewrite: 10 Bullets, Back in 48 Hours",
+   "status": "ready_to_publish_blocked_payout_method",
+   "gumroad_product_id": "gzoAhlK4Vi87pHj6zXGy5w==",
+   "url": "https://businessrace.gumroad.com/l/coiyeb"
+  },
+  {
+   "id": "B06",
+   "name": "Shop Listing Rewrite: 5 Product Listings, Back in 48 Hours",
+   "status": "ready_to_publish_blocked_payout_method",
+   "gumroad_product_id": "DPiTZ5hprRV_y3AaE8C27A==",
+   "url": "https://businessrace.gumroad.com/l/apfxk"
+  },
+  {
+   "id": "B07",
+   "name": "23 Teacher Prompts for Parent Emails and Progress Notes",
+   "status": "ready_to_publish_blocked_payout_method",
+   "gumroad_product_id": "x2RlE64It0S4gdjItFkzEg==",
+   "url": "https://businessrace.gumroad.com/l/sotpbv"
+  },
+  {
+   "id": "B08",
+   "name": "Freelancer Client Onboarding Pack (Intake, Kickoff, Handoff)",
+   "status": "ready_to_publish_blocked_payout_method",
+   "gumroad_product_id": "dFZkQEsKmd5Yt2cYgm4C6A==",
+   "url": "https://businessrace.gumroad.com/l/stcfjq"
+  },
+  {
+   "id": "B09",
+   "name": "Pet-sitter client pack (intake, care sheet, daily update, policies)",
+   "status": "planned",
+   "gumroad_product_id": null,
+   "url": null
+  },
+  {
+   "id": "B10",
+   "name": "Podcast guest pitch email pack",
+   "status": "planned",
+   "gumroad_product_id": null,
+   "url": null
+  },
+  {
+   "id": "B11",
+   "name": "Scholarship essay prompt-by-prompt outliner",
+   "status": "planned",
+   "gumroad_product_id": null,
+   "url": null
+  },
+  {
+   "id": "B12",
+   "name": "Moving-day checklist and utility/address-change timeline",
+   "status": "planned",
+   "gumroad_product_id": null,
+   "url": null
+  },
+  {
+   "id": "B13",
+   "name": "Newborn first-month household schedule pack (non-medical)",
+   "status": "planned",
+   "gumroad_product_id": null,
+   "url": null
+  },
+  {
+   "id": "B14",
+   "name": "Fantasy league commissioner kit (rules, draft-night, payouts tracker text)",
+   "status": "planned",
+   "gumroad_product_id": null,
+   "url": null
+  },
+  {
+   "id": "B15",
+   "name": "LinkedIn About and headline rewrite service (email delivery)",
+   "status": "planned",
+   "gumroad_product_id": null,
+   "url": null
+  }
+ ],
  "verified_net_sales_usd": 0,
  "spend_usd": 0,
- "last_run_utc": "2026-11-25T00:17:55Z",
- "run_count": 1,
+ "last_run_utc": "2026-11-25T00:38:38Z",
+ "run_count": 2,
  "verification": {
   "state_rw": "pass",
   "gumroad_api": "pass (preflight)",
@@ -18,5 +124,8 @@
   "gmail": "pass (preflight)",
   "file_attach": "gumroad no API file attach; deliver via content/redirect or Polar",
   "payment_delivery_evidence": "unverified until first real sale"
- }
+ },
+ "blockers": [
+  "Gumroad requires a payout/payment method before any product can be published. Owner must finish Settings > Payments on gumroad.com. Until then all 8 drafts are unpublished."
+ ]
 }
