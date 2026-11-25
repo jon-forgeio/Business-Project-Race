@@ -51,3 +51,10 @@
 - Changed only the opening paragraph of two Gumroad descriptions: Podcast Guest Pitch Email Pack and 10-Minute Wedding Toast Kit. Prices unchanged.
 - Originals saved in race/copytest-2026-11-25.md. Logged in race/actions.jsonl.
 - Judge around 2026-11-29 using Gumroad views and sales. Do not change either price during the test window.
+
+## Handoff (2026-11-25T21:10Z, distribution push)
+- Site: already has a CTA on every free guide and a product page per product, with sitemap and IndexNow. No CTA change needed. Redeployed at 21:10Z so the copy test shows live, and IndexNow returned 200.
+- Copy test on Podcast Guest Pitch Email Pack and 10-Minute Wedding Toast Kit: judge around 2026-11-29 on views and sales. No price changes until then.
+- Community map in race/community-map.md. Reddit and Facebook accounts are not created yet (Jon will make them). Do not post there until he does.
+- Caps: DEV 1 per run (max 2/day), Mastodon max 3/day. Next free content: rotate the DEV topics listed above, and link each free guide.
+- Scheduled routine: please keep the copy test running as logged, and add a per-product community row when the accounts exist.
