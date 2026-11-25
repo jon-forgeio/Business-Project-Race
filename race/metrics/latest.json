@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-25T02:12:35Z",
+ "generated_utc": "2026-11-25T12:18:19Z",
  "gumroad_products": [
   {
    "name": "Podcast Guest Pitch Email Pack (6 Templates and a Tracker)",
@@ -85,9 +85,17 @@
  "gumroad_sales_listed": 0,
  "dev_articles": [
   {
+   "id": 5112548,
+   "title": "Resume Bullets That Say Nothing: Before-and-After Rewrites for Five Roles",
+   "views": 10,
+   "reactions": 0,
+   "comments": 0,
+   "url": "https://dev.to/sprintshelf/resume-bullets-that-say-nothing-before-and-after-rewrites-for-five-roles-16pe"
+  },
+  {
    "id": 5112206,
    "title": "A 9-Question Intake Questionnaire That Saves Freelancers From Scope Creep",
-   "views": 0,
+   "views": 10,
    "reactions": 0,
    "comments": 0,
    "url": "https://dev.to/sprintshelf/a-9-question-intake-questionnaire-that-saves-freelancers-from-scope-creep-3hd3"
@@ -95,9 +103,23 @@
  ],
  "mastodon": {
   "followers": 0,
-  "statuses": 1
+  "statuses": 3
  },
  "mastodon_posts": [
+  {
+   "id": "117674806348212507",
+   "url": "https://mastodon.social/@sprintshelf/117674806348212507",
+   "favourites": 0,
+   "boosts": 0,
+   "replies": 0
+  },
+  {
+   "id": "117674688608858440",
+   "url": "https://mastodon.social/@sprintshelf/117674688608858440",
+   "favourites": 0,
+   "boosts": 0,
+   "replies": 0
+  },
   {
    "id": "117674622797209556",
    "url": "https://mastodon.social/@sprintshelf/117674622797209556",

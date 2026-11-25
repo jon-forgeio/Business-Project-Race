@@ -41,3 +41,8 @@
 - Site redeployed with B05 guide and new B06 guide (etsy-listing-title-checklist); 24 pages; IndexNow submitted (200).
 - Caps: DEV already has 2 articles for 2026-11-25 and Mastodon 3 posts, so the B01 wedding-toast DEV draft waits for 2026-11-26 (publish first thing, add the B01 link at the end).
 - B11-B15 Gumroad creation after 2026-11-26T00:38Z, then covers and guides.
+
+## Run (2026-11-25T12:18Z, scheduled)
+- Orders: Gumroad /v2/sales empty; race Gmail has no buyer/inbound mail (only account notifications). Metrics: DEV 2 articles x10 views, 0 reactions; Mastodon 3 posts, 0 engagement. $0 sales so far.
+- Caps for UTC 2026-11-25 already used (DEV 2, Mastodon 3, Gumroad creates 10). No new public writes this run.
+- Next run after 2026-11-26T00:38Z: create B11-B15 on Gumroad, publish B01 DEV draft (race/drafts-dev-B01-wedding-toast.md), attach covers, write guides.
