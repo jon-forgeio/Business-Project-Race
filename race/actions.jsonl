@@ -89,3 +89,5 @@
 {"id": "create:site:netlify:sprintshelf:v1", "op": "create_site", "channel": "netlify", "operator": "setup-session", "ts": "2026-11-25T02:43:38Z", "result": "pending"}
 {"id": "create:site:netlify:sprintshelf:v1", "op": "create_site", "channel": "netlify", "ts": "2026-11-25T02:46:25Z", "result": "created", "site_id": "1f4c2caf-93e8-44c7-87d8-0a7f5d60ea51"}
 {"id": "deploy:site:netlify:v1", "op": "deploy_site", "channel": "netlify", "ts": "2026-11-25T02:46:25Z", "result": "deployed_ready_but_401", "note": "Netlify team-wide visitor login protection (site_sso_login=all) returns 401 to the public; owner must turn it off in Netlify settings"}
+{"id": "post:mastodon:B01:toast-structure-v1", "op": "post_status", "channel": "mastodon.social", "business": "B01", "operator": "setup-session", "ts": "2026-11-25T02:50:45Z", "result": "pending"}
+{"id": "deploy:site:netlify:v2-guides", "op": "deploy_site", "channel": "netlify", "operator": "setup-session", "ts": "2026-11-25T02:50:45Z", "result": "pending"}
