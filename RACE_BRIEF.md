@@ -42,3 +42,13 @@ Run 1 only started the clock and exited in under a minute. That is not enough: r
 - Mastodon (mastodon.social), account sprintshelf, flagged automated. When its token credential exists: POST https://mastodon.social/api/v1/statuses with the proxy-injected bearer; max 3 posts/day, each a real tip plus at most one product link; never reply unprompted, never DM, never follow-mass.
 - Never: fake reviews, fake engagement, spam, copying others' text, claims of results. Disclose AI assistance. Reserve an action ID + pending record (push) before every post; record the resulting URL after.
 - Brand: Sprint Shelf only. No mention of Forge or the owner.
+
+## Daily optimization loop (owner instruction: improve every run, maximize profit and polish)
+Every run, after handling orders and inbound mail:
+1. Snapshot: `python3 -I race/tools/metrics.py > race/metrics/latest.json` (Gumroad sales, DEV views/reactions, Mastodon engagement). Compare with the previous snapshot in git history. Never publish raw customer data.
+2. Rank businesses by evidence: paid orders first, then DEV views/reactions or Mastodon engagement that mention a product, then everything else. Today's five = 3 strongest-evidence + 2 least-tested.
+3. For each of the five, ship at least one concrete improvement: sharper title/description, better cover (race/assets/covers, make new ones with the HTML template approach in git history), price test (change one thing at a time, record it in race/actions.jsonl), new free content aimed at that product, or a bundle with a sibling product.
+4. Content: reuse what earned views (topic, format, tags); retire what got none after two tries. Keep every post useful on its own, with a disclosed link, AI-assisted label, no spam.
+5. Underperformers after a fair test (about 4 runs with real exposure and zero engagement): revise the offer or replace it with a new original idea, and log why.
+6. Record changes and results in race/NEXT_ACTIONS.md and the scoreboard. Never claim sales or traction that are not in Gumroad's transaction data.
+Tools available beyond Gumroad/DEV/Mastodon: Chromium + Playwright for rendering images (covers, avatars); Mastodon media upload can host public images for Gumroad cover URLs (POST /v2/media then Gumroad POST /v2/products/:id/covers url=...). Gumroad caps product creation at 10 per rolling day.

@@ -53,3 +53,12 @@
 {"id": "cover:B10:gumroad:v1", "op": "set_product_cover", "business": "B10", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T02:11:43Z", "result": "pending"}
 {"id": "cover:B01:gumroad:v1", "op": "set_product_cover", "business": "B01", "channel": "gumroad", "ts": "2026-11-25T02:11:43Z", "result": "done", "note": "cover attached during test"}
 {"id": "profile:mastodon:avatar-header:v1", "op": "set_profile_images", "channel": "mastodon.social", "ts": "2026-11-25T02:11:43Z", "result": "done"}
+{"id": "cover:B02:gumroad:v1", "op": "set_product_cover", "business": "B02", "ts": "2026-11-25T02:12:24Z", "result": "done"}
+{"id": "cover:B03:gumroad:v1", "op": "set_product_cover", "business": "B03", "ts": "2026-11-25T02:12:24Z", "result": "done"}
+{"id": "cover:B04:gumroad:v1", "op": "set_product_cover", "business": "B04", "ts": "2026-11-25T02:12:24Z", "result": "done"}
+{"id": "cover:B05:gumroad:v1", "op": "set_product_cover", "business": "B05", "ts": "2026-11-25T02:12:24Z", "result": "done"}
+{"id": "cover:B06:gumroad:v1", "op": "set_product_cover", "business": "B06", "ts": "2026-11-25T02:12:24Z", "result": "done"}
+{"id": "cover:B07:gumroad:v1", "op": "set_product_cover", "business": "B07", "ts": "2026-11-25T02:12:24Z", "result": "done"}
+{"id": "cover:B08:gumroad:v1", "op": "set_product_cover", "business": "B08", "ts": "2026-11-25T02:12:24Z", "result": "done"}
+{"id": "cover:B09:gumroad:v1", "op": "set_product_cover", "business": "B09", "ts": "2026-11-25T02:12:24Z", "result": "done"}
+{"id": "cover:B10:gumroad:v1", "op": "set_product_cover", "business": "B10", "ts": "2026-11-25T02:12:24Z", "result": "done"}

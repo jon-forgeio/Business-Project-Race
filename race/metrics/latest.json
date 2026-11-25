@@ -1,0 +1,109 @@
+{
+ "generated_utc": "2026-11-25T02:12:35Z",
+ "gumroad_products": [
+  {
+   "name": "Podcast Guest Pitch Email Pack (6 Templates and a Tracker)",
+   "published": true,
+   "price": "$9",
+   "sales_count": 0,
+   "sales_usd_cents": 0.0,
+   "url": "https://businessrace.gumroad.com/l/dtmjky"
+  },
+  {
+   "name": "Pet Sitter Client Pack: Intake, Care Sheet, Daily Updates",
+   "published": true,
+   "price": "$10",
+   "sales_count": 0,
+   "sales_usd_cents": 0.0,
+   "url": "https://businessrace.gumroad.com/l/btanaj"
+  },
+  {
+   "name": "Freelancer Client Onboarding Pack (Intake, Kickoff, Handoff)",
+   "published": true,
+   "price": "$11",
+   "sales_count": 0,
+   "sales_usd_cents": 0.0,
+   "url": "https://businessrace.gumroad.com/l/stcfjq"
+  },
+  {
+   "name": "23 Teacher Prompts for Parent Emails and Progress Notes",
+   "published": true,
+   "price": "$8",
+   "sales_count": 0,
+   "sales_usd_cents": 0.0,
+   "url": "https://businessrace.gumroad.com/l/sotpbv"
+  },
+  {
+   "name": "Shop Listing Rewrite: 5 Product Listings, Back in 48 Hours",
+   "published": true,
+   "price": "$24",
+   "sales_count": 0,
+   "sales_usd_cents": 0.0,
+   "url": "https://businessrace.gumroad.com/l/apfxk"
+  },
+  {
+   "name": "Resume Bullet Rewrite: 10 Bullets, Back in 48 Hours",
+   "published": true,
+   "price": "$19",
+   "sales_count": 0,
+   "sales_usd_cents": 0.0,
+   "url": "https://businessrace.gumroad.com/l/coiyeb"
+  },
+  {
+   "name": "Short-Term Rental Guest Message Pack (21 Templates)",
+   "published": true,
+   "price": "$9",
+   "sales_count": 0,
+   "sales_usd_cents": 0.0,
+   "url": "https://businessrace.gumroad.com/l/upakjg"
+  },
+  {
+   "name": "Layoff Week One: The 7-Day Job Search Restart Plan",
+   "published": true,
+   "price": "$9",
+   "sales_count": 0,
+   "sales_usd_cents": 0.0,
+   "url": "https://businessrace.gumroad.com/l/nhxmzf"
+  },
+  {
+   "name": "Etsy Digital Product Shop SOP Pack (12 Checklists)",
+   "published": true,
+   "price": "$12",
+   "sales_count": 0,
+   "sales_usd_cents": 0.0,
+   "url": "https://businessrace.gumroad.com/l/ovfudt"
+  },
+  {
+   "name": "The 10-Minute Wedding Toast Kit",
+   "published": true,
+   "price": "$7",
+   "sales_count": 0,
+   "sales_usd_cents": 0.0,
+   "url": "https://businessrace.gumroad.com/l/rtbyanv"
+  }
+ ],
+ "gumroad_sales_listed": 0,
+ "dev_articles": [
+  {
+   "id": 5112206,
+   "title": "A 9-Question Intake Questionnaire That Saves Freelancers From Scope Creep",
+   "views": 0,
+   "reactions": 0,
+   "comments": 0,
+   "url": "https://dev.to/sprintshelf/a-9-question-intake-questionnaire-that-saves-freelancers-from-scope-creep-3hd3"
+  }
+ ],
+ "mastodon": {
+  "followers": 0,
+  "statuses": 1
+ },
+ "mastodon_posts": [
+  {
+   "id": "117674622797209556",
+   "url": "https://mastodon.social/@sprintshelf/117674622797209556",
+   "favourites": 0,
+   "boosts": 0,
+   "replies": 0
+  }
+ ]
+}

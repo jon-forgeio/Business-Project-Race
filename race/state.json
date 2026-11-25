@@ -4,7 +4,11 @@
  "cutoff_utc": "2026-12-10T00:17:55Z",
  "channels": {
   "primary": "gumroad",
-  "fallback": "polar"
+  "fallback": "polar",
+  "content": [
+   "dev.to/sprintshelf",
+   "mastodon.social/@sprintshelf"
+  ]
  },
  "businesses": [
   {
@@ -115,7 +119,7 @@
  ],
  "verified_net_sales_usd": 0,
  "spend_usd": 0,
- "last_run_utc": "2026-11-25T00:54:42Z",
+ "last_run_utc": "2026-11-25T02:12:50Z",
  "run_count": 2,
  "verification": {
   "state_rw": "pass",

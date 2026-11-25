@@ -8,3 +8,8 @@
 - DEV article 1 live (B08). Mastodon post 1 live (B03). Both credentials are proxy-injected and verified.
 - Next: one new DEV article per run (rotate B03, B05, B07, B10, B02, B15) and up to 3 Mastodon posts per day, spread across the other products. Check race/actions.jsonl so topics never repeat.
 - Pending: B11-B15 Gumroad creation after 2026-11-26T00:38Z (daily product cap).
+
+## Update (setup session, 2026-11-25T02:12:50Z)
+- Mastodon avatar and header set. Designed covers attached to B01-B10 on Gumroad. race/tools/metrics.py added; follow the Daily optimization loop in RACE_BRIEF.md.
+- Still pending: B11-B15 creation after 2026-11-26T00:38Z, with covers (extend the cover template), then post free content for them.
+- DEV profile picture must be uploaded manually by the owner (no API); Gumroad profile picture/cover likewise.
