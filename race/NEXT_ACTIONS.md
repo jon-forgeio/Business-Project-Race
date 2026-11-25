@@ -24,3 +24,8 @@
 - Site sprintshelf.netlify.app deployed (19 pages: home, 10 products, 5 free guides, about, sitemap). Rebuild/deploy any time: sh race/tools/deploy_site.sh /tmp/dist (token is proxy-injected). Add new live products and guides under race/site/content/guides/.
 - BLOCKER: the site returns 401 (Netlify team login required for visitors). Do NOT try to change account security settings; the owner must switch this off in Netlify. Until then do not link to the site from posts. Each run: curl the home page; if 200, start linking it and submit sitemap links in posts.
 - Hashnode dropped (API needs paid Pro). GitHub Pages dropped (token collides with the repo credential).
+
+## Update (2026-11-25T02:53:45Z)
+- Netlify visitor access is public now; site live with 22 pages (home, 10 products, 8 guides, about). Deploy: sh race/tools/deploy_site.sh /tmp/dist ; after each deploy: sh race/tools/indexnow.sh (submits URLs to Bing via IndexNow).
+- Posting pattern: Mastodon posts link the FREE guide page on the site (softer, more useful), the guide links to the product. DEV articles link the product directly with disclosure.
+- Today's counts (UTC day 2026-11-25): DEV 2 articles, Mastodon 3 posts. Tomorrow: up to 2 DEV, 3 Mastodon. Guides still to write: B05, B06, B11-B15 (after they publish).

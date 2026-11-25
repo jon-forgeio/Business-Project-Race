@@ -91,6 +91,7 @@ write('/about/', page('About Sprint Shelf', 'What Sprint Shelf is and how the gu
 urls.append('/about/')
 today = datetime.date.today().isoformat()
 open(os.path.join(out, 'sitemap.xml'), 'w').write('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + ''.join(f'<url><loc>{BASE}{u}</loc><lastmod>{today}</lastmod></url>' for u in urls) + '</urlset>')
+open(os.path.join(out, 'b7f3c1e94a2d4f6a8c0e5d7b9a1f3c52.txt'), 'w').write('b7f3c1e94a2d4f6a8c0e5d7b9a1f3c52')
 open(os.path.join(out, 'robots.txt'), 'w').write(f'User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n')
 open(os.path.join(out, '404.html'), 'w').write(page('Page not found | Sprint Shelf', 'Page not found.', '/404.html', '<div class="hero"><h1>Page not found</h1><p><a href="/">Back to the home page</a></p></div>'))
 print('pages', len(urls), 'products', len(prods), 'guides', len(guides))
