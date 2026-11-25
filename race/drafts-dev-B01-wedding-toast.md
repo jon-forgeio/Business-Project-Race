@@ -37,4 +37,4 @@ Read it standing up, once to yourself and once to a friend. Mark any sentence yo
 - A printed copy with large text, in case you freeze.
 - Your glass is ready before you start.
 
-A full set of openers, closers and structures is in a fill-in-the-blank kit I put together. It is written as a template, so you still do the thinking. Disclosure: I used AI assistance to draft and edit this, and I reviewed it before publishing.
+A full set of openers, closers and structures is in [The 10-Minute Wedding Toast Kit](https://businessrace.gumroad.com/l/rtbyanv), a fill-in-the-blank kit. It is written as a template, so you still do the thinking. Disclosure: I used AI assistance to draft and edit this, and I reviewed it before publishing.
