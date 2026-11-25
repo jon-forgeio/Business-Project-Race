@@ -13,3 +13,9 @@
 - Mastodon avatar and header set. Designed covers attached to B01-B10 on Gumroad. race/tools/metrics.py added; follow the Daily optimization loop in RACE_BRIEF.md.
 - Still pending: B11-B15 creation after 2026-11-26T00:38Z, with covers (extend the cover template), then post free content for them.
 - DEV profile picture must be uploaded manually by the owner (no API); Gumroad profile picture/cover likewise.
+
+## Handover (setup session end, 2026-11-25T02:20:59Z)
+- LIVE: B01-B10 on Gumroad with designed covers and upgraded descriptions. Content so far: DEV article (B08), Mastodon posts (B03, B02).
+- B11-B15: content in race/assets, covers already rendered in race/assets/covers. Create+publish after 2026-11-26T00:38Z, then attach covers (Mastodon media upload -> Gumroad /covers url=) and upgrade descriptions like B01-B10.
+- Next content ideas (not yet used): DEV articles for B03 (job search after layoff, #career), B05 (rewriting resume bullets, #career), B07 (AI for teachers, #ai), B10 (podcast pitch, #career), B02 (Etsy SOPs, #productivity). Mastodon: B04 host messages, B07, B09, B10, B12, B14. At most 3 Mastodon posts/day, 1 DEV article/run.
+- Run the metrics tool every run and apply the Daily optimization loop in RACE_BRIEF.md.
