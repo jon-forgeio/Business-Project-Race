@@ -42,3 +42,14 @@
 {"id": "post:dev:B08:freelance-intake-v1", "op": "publish_article", "channel": "dev.to", "business": "B08", "ts": "2026-11-25T01:13:02Z", "result": "published", "article_id": 5112206, "url": "https://dev.to/sprintshelf/a-9-question-intake-questionnaire-that-saves-freelancers-from-scope-creep-3hd3", "verified": "public page 200, product link present"}
 {"id": "post:mastodon:B03:layoff-week1-v1", "op": "post_status", "channel": "mastodon.social", "business": "B03", "operator": "setup-session", "ts": "2026-11-25T02:04:05Z", "result": "pending"}
 {"id": "post:mastodon:B03:layoff-week1-v1", "op": "post_status", "channel": "mastodon.social", "business": "B03", "ts": "2026-11-25T02:04:15Z", "result": "published", "status_id": "117674622797209556", "url": "https://mastodon.social/@sprintshelf/117674622797209556"}
+{"id": "cover:B02:gumroad:v1", "op": "set_product_cover", "business": "B02", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T02:11:43Z", "result": "pending"}
+{"id": "cover:B03:gumroad:v1", "op": "set_product_cover", "business": "B03", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T02:11:43Z", "result": "pending"}
+{"id": "cover:B04:gumroad:v1", "op": "set_product_cover", "business": "B04", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T02:11:43Z", "result": "pending"}
+{"id": "cover:B05:gumroad:v1", "op": "set_product_cover", "business": "B05", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T02:11:43Z", "result": "pending"}
+{"id": "cover:B06:gumroad:v1", "op": "set_product_cover", "business": "B06", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T02:11:43Z", "result": "pending"}
+{"id": "cover:B07:gumroad:v1", "op": "set_product_cover", "business": "B07", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T02:11:43Z", "result": "pending"}
+{"id": "cover:B08:gumroad:v1", "op": "set_product_cover", "business": "B08", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T02:11:43Z", "result": "pending"}
+{"id": "cover:B09:gumroad:v1", "op": "set_product_cover", "business": "B09", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T02:11:43Z", "result": "pending"}
+{"id": "cover:B10:gumroad:v1", "op": "set_product_cover", "business": "B10", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-25T02:11:43Z", "result": "pending"}
+{"id": "cover:B01:gumroad:v1", "op": "set_product_cover", "business": "B01", "channel": "gumroad", "ts": "2026-11-25T02:11:43Z", "result": "done", "note": "cover attached during test"}
+{"id": "profile:mastodon:avatar-header:v1", "op": "set_profile_images", "channel": "mastodon.social", "ts": "2026-11-25T02:11:43Z", "result": "done"}
