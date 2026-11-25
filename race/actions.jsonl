@@ -39,3 +39,4 @@
 {"id": "publish:B14:gumroad:v1", "op": "create_and_publish_product", "business": "B14", "ts": "2026-11-25T00:54:42Z", "result": "blocked_daily_product_cap", "retry_after": "2026-11-26T00:38Z"}
 {"id": "publish:B15:gumroad:v1", "op": "create_and_publish_product", "business": "B15", "ts": "2026-11-25T00:54:42Z", "result": "blocked_daily_product_cap", "retry_after": "2026-11-26T00:38Z"}
 {"id": "post:dev:B08:freelance-intake-v1", "op": "publish_article", "channel": "dev.to", "business": "B08", "operator": "setup-session", "ts": "2026-11-25T01:12:43Z", "result": "pending"}
+{"id": "post:dev:B08:freelance-intake-v1", "op": "publish_article", "channel": "dev.to", "business": "B08", "ts": "2026-11-25T01:13:02Z", "result": "published", "article_id": 5112206, "url": "https://dev.to/sprintshelf/a-9-question-intake-questionnaire-that-saves-freelancers-from-scope-creep-3hd3", "verified": "public page 200, product link present"}
