@@ -101,7 +101,7 @@ footer{background:var(--dark);color:#d1d5db;padding:36px 0 44px;font-size:14px}f
 def esc(s): return html.escape(s, quote=True)
 
 def build(s):
-    url = f"https://{s['slug']}.netlify.app/"
+    url = f"https://jon-forgeio.github.io/Business-Project-Race/{s['slug']}/"
     title = f"{s['name']}: {s['tag']}"
     desc = s['sub']
     theme = (f":root{{--font:{s['font']};--heading:{s['font']};--accent:{s['accent']};--accent2:{s['accent2']};"

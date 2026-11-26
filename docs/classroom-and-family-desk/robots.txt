@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jon-forgeio.github.io/Business-Project-Race/classroom-and-family-desk/sitemap.xml
