@@ -120,3 +120,4 @@
 {"id":"cover:gumroad:B11-B14:v1","op":"attach_cover","ts":"2026-11-26T00:40:09Z","result":"done"}
 {"id": "redesign:B15:gumroad:v2", "op": "update_product_and_publish", "business": "B15", "channel": "gumroad", "operator": "setup-session", "ts": "2026-11-26T00:47:02Z", "result": "pending", "note": "redesign as instant template kit; update existing draft B7dyQoKynoQsaxkJhbxqrg=="}
 {"id": "redesign:B15:gumroad:v2", "op": "update_product_and_publish", "business": "B15", "ts": "2026-11-26T00:47:29Z", "result": "published", "url": "https://businessrace.gumroad.com/l/vlbte", "verified": "page 200, cover attached"}
+{"id":"run:2026-11-26T12:19:56Z:reporting-only","op":"scoreboard_by_business","ts":"2026-11-26T12:19:56Z","result":"done","note":"no public writes; posting held per owner run status"}

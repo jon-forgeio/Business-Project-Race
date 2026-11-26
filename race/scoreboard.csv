@@ -1,16 +1,6 @@
-business,verified_net_usd,status,link
-B01,0,live with checkout,https://businessrace.gumroad.com/l/rtbyanv
-B02,0,live with checkout,https://businessrace.gumroad.com/l/ovfudt
-B03,0,live with checkout,https://businessrace.gumroad.com/l/nhxmzf
-B04,0,live with checkout,https://businessrace.gumroad.com/l/upakjg
-B05,0,live with checkout,https://businessrace.gumroad.com/l/coiyeb
-B06,0,live with checkout,https://businessrace.gumroad.com/l/apfxk
-B07,0,live with checkout,https://businessrace.gumroad.com/l/sotpbv
-B08,0,live with checkout,https://businessrace.gumroad.com/l/stcfjq
-B09,0,live with checkout,https://businessrace.gumroad.com/l/btanaj
-B10,0,live with checkout,https://businessrace.gumroad.com/l/dtmjky
-B11,0,live with checkout,https://businessrace.gumroad.com/l/qotlkq
-B12,0,live with checkout,https://businessrace.gumroad.com/l/sditqz
-B13,0,live with checkout,https://businessrace.gumroad.com/l/fehfmm
-B14,0,live with checkout,https://businessrace.gumroad.com/l/pdklnr
-B15,0,live with checkout,https://businessrace.gumroad.com/l/vlbte
+business,verified_net_usd,status,products
+Second Draft Careers,0,live with checkout,B03;B05;B10;B15
+Hearth & Host,0,live with checkout,B01;B04;B09;B12;B13
+Solo Ops Studio,0,live with checkout,B02;B06;B08
+Classroom & Family Desk,0,live with checkout,B07;B11
+Game Night Co,0,live with checkout,B14

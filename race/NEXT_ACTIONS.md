@@ -80,3 +80,13 @@
 - B15 redesigned as an instant LinkedIn Headline + About template kit ($12) and published with a cover: https://businessrace.gumroad.com/l/vlbte. All 15 businesses are now live with checkout. B11-B14 were created by run 3.
 - Owner blocker (payout only): Gumroad emailed that the account needs an SSN/identity step at https://gumroad.com/settings/payments/remediation. Sales continue; owner must complete it directly on Gumroad. Never ask for or handle SSN data.
 - Next: free guides + DEV/Mastodon content for B11-B15 (the new products have no content yet); upgrade B11-B15 descriptions like B01-B10; create race/businesses/Bxx.md for all 15.
+
+## Run 4 (2026-11-26T12:19:56Z, scheduled, five-business structure)
+- Read the plan (race/notes/FIVE_BUSINESSES_PLAN.md, CHANNEL_PLANS.md) and RUN_STATUS_2026-11-26.md from branch claude/project-thread-ob02yx. Channel and brand rules followed.
+- Orders: Gumroad /v2/sales empty. Verified net /bin/bash for all five businesses. Race inbox not checked (see state.json blockers).
+- Metrics snapshot refreshed (race/metrics/latest.json): DEV 4 articles, 0 reactions; Mastodon 5 posts, 0 reactions.
+- Posting HELD: the owner's run status says no DEV or Mastodon posts until a business has its own account and the owner confirms in the thread. No public writes this run.
+- Scoreboard rebuilt: one row per business (race/scoreboard.md, scoreboard.csv). state.json tags each product with its business.
+- Filled the B01-B10 gap in race/businesses/ (generated from race/assets meta and state.json; B11-B15 kept).
+- Not done, owner decisions needed: approve per-business DEV/Mastodon accounts; approve replacing "Sprint Shelf" in product copy; confirm per-business Netlify URLs; Gumroad payout remediation.
+- Next run: if the owner confirms an account for a business in the thread, publish that business's first DEV article or Mastodon post from its channel plan (the brief's caps apply). Otherwise keep the metrics snapshot and scoreboard current and make no public writes.

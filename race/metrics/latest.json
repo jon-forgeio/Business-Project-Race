@@ -1,6 +1,46 @@
 {
- "generated_utc": "2026-11-26T00:18:33Z",
+ "generated_utc": "2026-11-26T12:18:47Z",
  "gumroad_products": [
+  {
+   "name": "LinkedIn Headline and About Section Template Kit",
+   "published": true,
+   "price": "$12",
+   "sales_count": 0,
+   "sales_usd_cents": 0.0,
+   "url": "https://businessrace.gumroad.com/l/vlbte"
+  },
+  {
+   "name": "Fantasy League Commissioner Kit: Rules, Draft Night, Payouts",
+   "published": true,
+   "price": "$7",
+   "sales_count": 0,
+   "sales_usd_cents": 0.0,
+   "url": "https://businessrace.gumroad.com/l/pdklnr"
+  },
+  {
+   "name": "Newborn First-Month Household Schedule (Non-Medical)",
+   "published": true,
+   "price": "$8",
+   "sales_count": 0,
+   "sales_usd_cents": 0.0,
+   "url": "https://businessrace.gumroad.com/l/fehfmm"
+  },
+  {
+   "name": "Moving-Day Checklist and 8-Week Timeline",
+   "published": true,
+   "price": "$7",
+   "sales_count": 0,
+   "sales_usd_cents": 0.0,
+   "url": "https://businessrace.gumroad.com/l/sditqz"
+  },
+  {
+   "name": "Scholarship Essay Outliner: 8 Prompt Types, Step by Step",
+   "published": true,
+   "price": "$8",
+   "sales_count": 0,
+   "sales_usd_cents": 0.0,
+   "url": "https://businessrace.gumroad.com/l/qotlkq"
+  },
   {
    "name": "Podcast Guest Pitch Email Pack (6 Templates and a Tracker)",
    "published": true,
@@ -40,50 +80,34 @@
    "sales_count": 0,
    "sales_usd_cents": 0.0,
    "url": "https://businessrace.gumroad.com/l/apfxk"
-  },
-  {
-   "name": "Resume Bullet Rewrite: 10 Bullets, Back in 48 Hours",
-   "published": true,
-   "price": "$19",
-   "sales_count": 0,
-   "sales_usd_cents": 0.0,
-   "url": "https://businessrace.gumroad.com/l/coiyeb"
-  },
-  {
-   "name": "Short-Term Rental Guest Message Pack (21 Templates)",
-   "published": true,
-   "price": "$9",
-   "sales_count": 0,
-   "sales_usd_cents": 0.0,
-   "url": "https://businessrace.gumroad.com/l/upakjg"
-  },
-  {
-   "name": "Layoff Week One: The 7-Day Job Search Restart Plan",
-   "published": true,
-   "price": "$9",
-   "sales_count": 0,
-   "sales_usd_cents": 0.0,
-   "url": "https://businessrace.gumroad.com/l/nhxmzf"
-  },
-  {
-   "name": "Etsy Digital Product Shop SOP Pack (12 Checklists)",
-   "published": true,
-   "price": "$12",
-   "sales_count": 0,
-   "sales_usd_cents": 0.0,
-   "url": "https://businessrace.gumroad.com/l/ovfudt"
-  },
-  {
-   "name": "The 10-Minute Wedding Toast Kit",
-   "published": true,
-   "price": "$7",
-   "sales_count": 0,
-   "sales_usd_cents": 0.0,
-   "url": "https://businessrace.gumroad.com/l/rtbyanv"
   }
  ],
  "gumroad_sales_listed": 0,
  "dev_articles": [
+  {
+   "id": 5122364,
+   "title": "The First Week After a Layoff: A Calm, Day-by-Day Plan",
+   "views": 20,
+   "reactions": 0,
+   "comments": 0,
+   "url": "https://dev.to/sprintshelf/the-first-week-after-a-layoff-a-calm-day-by-day-plan-2j2c"
+  },
+  {
+   "id": 5122359,
+   "title": "Resume Bullets That Show Impact: A Three-Part Rewrite You Can Do Tonight",
+   "views": 10,
+   "reactions": 0,
+   "comments": 0,
+   "url": "https://dev.to/sprintshelf/resume-bullets-that-show-impact-a-three-part-rewrite-you-can-do-tonight-58a4"
+  },
+  {
+   "id": 5120039,
+   "title": "A Wedding Toast Outline You Can Finish in an Hour (Four Structures)",
+   "views": 0,
+   "reactions": 0,
+   "comments": 0,
+   "url": "https://dev.to/sprintshelf/a-wedding-toast-outline-you-can-finish-in-an-hour-four-structures-2mk4"
+  },
   {
    "id": 5112548,
    "title": "Resume Bullets That Say Nothing: Before-and-After Rewrites for Five Roles",
@@ -103,9 +127,30 @@
  ],
  "mastodon": {
   "followers": 0,
-  "statuses": 3
+  "statuses": 6
  },
  "mastodon_posts": [
+  {
+   "id": "117681492827508195",
+   "url": "https://mastodon.social/@sprintshelf/117681492827508195",
+   "favourites": 0,
+   "boosts": 0,
+   "replies": 0
+  },
+  {
+   "id": "117679871298204022",
+   "url": "https://mastodon.social/@sprintshelf/117679871298204022",
+   "favourites": 0,
+   "boosts": 0,
+   "replies": 0
+  },
+  {
+   "id": "117679871272211338",
+   "url": "https://mastodon.social/@sprintshelf/117679871272211338",
+   "favourites": 0,
+   "boosts": 0,
+   "replies": 0
+  },
   {
    "id": "117674806348212507",
    "url": "https://mastodon.social/@sprintshelf/117674806348212507",
