@@ -75,3 +75,8 @@
 - B15: Gumroad refused to enable it. Its content is an email-fulfilled service and Gumroad requires content on the product. Next run: redesign B15 as an instant LinkedIn About + headline template kit (copy from race/assets/B15.md, no 'message me for delivery'), re-enable, attach cover race/assets/covers/B15.png. Draft product B7dyQoKynoQsaxkJhbxqrg== is unpublished; update it, do not create a new one.
 - Still to do: race/businesses/Bxx.md for all 15 (missing since run 2).
 - Next run: free content for B11-B14 (DEV cap 2/day, Mastodon 3/day; B11-B14 have guides? none yet, write them under race/site/content/guides and deploy).
+
+## Setup-session note (2026-11-26T00:47:29Z)
+- B15 redesigned as an instant LinkedIn Headline + About template kit ($12) and published with a cover: https://businessrace.gumroad.com/l/vlbte. All 15 businesses are now live with checkout. B11-B14 were created by run 3.
+- Owner blocker (payout only): Gumroad emailed that the account needs an SSN/identity step at https://gumroad.com/settings/payments/remediation. Sales continue; owner must complete it directly on Gumroad. Never ask for or handle SSN data.
+- Next: free guides + DEV/Mastodon content for B11-B15 (the new products have no content yet); upgrade B11-B15 descriptions like B01-B10; create race/businesses/Bxx.md for all 15.

@@ -122,15 +122,15 @@
   },
   {
    "id": "B15",
-   "name": "LinkedIn About and headline rewrite service (email delivery)",
-   "status": "blocked_gumroad_policy_service_email_fulfilment",
+   "name": "LinkedIn Headline and About Section Template Kit",
+   "status": "live_with_checkout",
    "gumroad_product_id": "B7dyQoKynoQsaxkJhbxqrg==",
-   "url": null
+   "url": "https://businessrace.gumroad.com/l/vlbte"
   }
  ],
  "verified_net_sales_usd": 0,
  "spend_usd": 0,
- "last_run_utc": "2026-11-26T00:40:09Z",
+ "last_run_utc": "2026-11-26T00:47:29Z",
  "run_count": 3,
  "verification": {
   "state_rw": "pass",
@@ -141,6 +141,6 @@
   "payment_delivery_evidence": "unverified until first real sale"
  },
  "blockers": [
-  "B15 (LinkedIn service, email-fulfilled) rejected by Gumroad: buyers must receive content on Gumroad. Redesign as an instant self-serve template kit and re-enable; draft product B7dyQoKynoQsaxkJhbxqrg== left unpublished."
+  "Gumroad payout: support@gumroad.com says the owner must complete the SSN/identity step at https://gumroad.com/settings/payments/remediation before payouts continue. Sales are unaffected; owner handles this directly on gumroad.com."
  ]
 }
