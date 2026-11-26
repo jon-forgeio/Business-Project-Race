@@ -69,3 +69,9 @@
 - B11-B15 Gumroad creation: gated on 2026-11-26T00:38Z; see the entry below for whether it ran.
 - Copy test (B10, B01) still running; judge around 2026-11-29. No price changes.
 - Next run: create B11-B15 (POST /v2/products, PUT fields, rich_content, /enable, covers), then guides for B04 and B09 already exist; next DEV topic from B05/B08 not yet used in DEV rotation.
+
+## Run 3 continued (2026-11-26T00:40:09Z)
+- Created on Gumroad (unpublished, then enabled, covers attached via Mastodon media upload): B11 https://businessrace.gumroad.com/l/qotlkq , B12 /l/sditqz , B13 /l/fehfmm , B14 /l/pdklnr. All short URLs return 200.
+- B15: Gumroad refused to enable it. Its content is an email-fulfilled service and Gumroad requires content on the product. Next run: redesign B15 as an instant LinkedIn About + headline template kit (copy from race/assets/B15.md, no 'message me for delivery'), re-enable, attach cover race/assets/covers/B15.png. Draft product B7dyQoKynoQsaxkJhbxqrg== is unpublished; update it, do not create a new one.
+- Still to do: race/businesses/Bxx.md for all 15 (missing since run 2).
+- Next run: free content for B11-B14 (DEV cap 2/day, Mastodon 3/day; B11-B14 have guides? none yet, write them under race/site/content/guides and deploy).

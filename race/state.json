@@ -95,42 +95,42 @@
   {
    "id": "B11",
    "name": "Scholarship essay prompt-by-prompt outliner",
-   "status": "content_ready_create_blocked_daily_cap",
-   "gumroad_product_id": null,
-   "url": null
+   "status": "live_with_checkout",
+   "gumroad_product_id": "sdlpaH718fZa0tqA_rFM4A==",
+   "url": "https://businessrace.gumroad.com/l/qotlkq"
   },
   {
    "id": "B12",
    "name": "Moving-day checklist and utility/address-change timeline",
-   "status": "content_ready_create_blocked_daily_cap",
-   "gumroad_product_id": null,
-   "url": null
+   "status": "live_with_checkout",
+   "gumroad_product_id": "-sAR5p5l17e8LJhYuaJ8Yg==",
+   "url": "https://businessrace.gumroad.com/l/sditqz"
   },
   {
    "id": "B13",
    "name": "Newborn first-month household schedule pack (non-medical)",
-   "status": "content_ready_create_blocked_daily_cap",
-   "gumroad_product_id": null,
-   "url": null
+   "status": "live_with_checkout",
+   "gumroad_product_id": "2w65cU07FzybJDdUA4ZJsw==",
+   "url": "https://businessrace.gumroad.com/l/fehfmm"
   },
   {
    "id": "B14",
    "name": "Fantasy league commissioner kit (rules, draft-night, payouts tracker text)",
-   "status": "content_ready_create_blocked_daily_cap",
-   "gumroad_product_id": null,
-   "url": null
+   "status": "live_with_checkout",
+   "gumroad_product_id": "lEuubhTPUynGLHwPdNSC0g==",
+   "url": "https://businessrace.gumroad.com/l/pdklnr"
   },
   {
    "id": "B15",
    "name": "LinkedIn About and headline rewrite service (email delivery)",
-   "status": "content_ready_create_blocked_daily_cap",
-   "gumroad_product_id": null,
+   "status": "blocked_gumroad_policy_service_email_fulfilment",
+   "gumroad_product_id": "B7dyQoKynoQsaxkJhbxqrg==",
    "url": null
   }
  ],
  "verified_net_sales_usd": 0,
  "spend_usd": 0,
- "last_run_utc": "2026-11-26T00:19:00Z",
+ "last_run_utc": "2026-11-26T00:40:09Z",
  "run_count": 3,
  "verification": {
   "state_rw": "pass",
@@ -141,6 +141,6 @@
   "payment_delivery_evidence": "unverified until first real sale"
  },
  "blockers": [
-  "Gumroad allows only 10 product creations per day (deleted probes count). B11-B15 content is ready in race/assets; create+publish them after 2026-11-26T00:38Z with: python-free path = POST /v2/products, PUT fields, rich_content, PUT /enable (see race/assets/B1x.md meta)."
+  "B15 (LinkedIn service, email-fulfilled) rejected by Gumroad: buyers must receive content on Gumroad. Redesign as an instant self-serve template kit and re-enable; draft product B7dyQoKynoQsaxkJhbxqrg== left unpublished."
  ]
 }

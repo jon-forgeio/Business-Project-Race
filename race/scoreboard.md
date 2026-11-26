@@ -12,10 +12,10 @@
 | B08 | $0 | live with checkout | https://businessrace.gumroad.com/l/stcfjq |
 | B09 | $0 | live with checkout | https://businessrace.gumroad.com/l/btanaj |
 | B10 | $0 | live with checkout | https://businessrace.gumroad.com/l/dtmjky |
-| B11 | $0 | content ready; listing blocked by Gumroad 10-products/day cap until 2026-11-26 00:38Z | - |
-| B12 | $0 | content ready; listing blocked by Gumroad 10-products/day cap until 2026-11-26 00:38Z | - |
-| B13 | $0 | content ready; listing blocked by Gumroad 10-products/day cap until 2026-11-26 00:38Z | - |
-| B14 | $0 | content ready; listing blocked by Gumroad 10-products/day cap until 2026-11-26 00:38Z | - |
-| B15 | $0 | content ready; listing blocked by Gumroad 10-products/day cap until 2026-11-26 00:38Z | - |
+| B11 | $0 | live with checkout | https://businessrace.gumroad.com/l/qotlkq |
+| B12 | $0 | live with checkout | https://businessrace.gumroad.com/l/sditqz |
+| B13 | $0 | live with checkout | https://businessrace.gumroad.com/l/fehfmm |
+| B14 | $0 | live with checkout | https://businessrace.gumroad.com/l/pdklnr |
+| B15 | $0 | blocked: Gumroad rejects email-fulfilled service; redesign as instant kit | - |
 
-Last updated 2026-11-26 (run 3). Gumroad /v2/sales: 0 sales. Race inbox: platform notifications only.
+Last updated 2026-11-26T00:40:09Z (run 3). Gumroad /v2/sales: 0 sales. Race inbox: platform notifications only. 14 of 15 on Gumroad; B15 blocked.
