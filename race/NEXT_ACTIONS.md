@@ -58,3 +58,14 @@
 - Community map in race/community-map.md. Reddit and Facebook accounts are not created yet (Jon will make them). Do not post there until he does.
 - Caps: DEV 1 per run (max 2/day), Mastodon max 3/day. Next free content: rotate the DEV topics listed above, and link each free guide.
 - Scheduled routine: please keep the copy test running as logged, and add a per-product community row when the accounts exist.
+
+## Run 3 (2026-11-26T00:17Z, scheduled)
+- Orders: Gumroad /v2/sales empty; race inbox (jon.business.race@gmail.com) has only platform/account notifications. Verified net $0 across all 15.
+- Metrics snapshot refreshed (race/metrics/latest.json): DEV 2 articles x10 views, 0 reactions; Mastodon 3 posts before this run, 0 engagement.
+- Published: DEV article for B01 (https://dev.to/sprintshelf/a-wedding-toast-outline-you-can-finish-in-an-hour-four-structures-2mk4). Mastodon posts for B04 (guest-messages guide) and B09 (pet-intake guide). Today's counts: DEV 1, Mastodon 2 (cap 2 DEV, 3 Mastodon).
+- Today's five: strongest evidence B05, B08, B03 (DEV views, owner ranking); least tested B04, B09.
+- Created scoreboard.md (scoreboard.csv kept in sync).
+- Gap: race/businesses/Bxx.md (required in run 2) is not in the repo yet. Build all 15 from race/assets/Bxx.md meta and state.json next run.
+- B11-B15 Gumroad creation: gated on 2026-11-26T00:38Z; see the entry below for whether it ran.
+- Copy test (B10, B01) still running; judge around 2026-11-29. No price changes.
+- Next run: create B11-B15 (POST /v2/products, PUT fields, rich_content, /enable, covers), then guides for B04 and B09 already exist; next DEV topic from B05/B08 not yet used in DEV rotation.

@@ -99,3 +99,6 @@
 {"id":"post:dev:B01:wedding-toast-outline-v1","op":"publish_article","channel":"dev.to","business":"B01","operator":"scheduled-run-3","ts":"2026-11-26T00:18:23Z","result":"pending"}
 {"id":"post:mastodon:B04:guest-messages-v1","op":"post_status","channel":"mastodon.social","business":"B04","operator":"scheduled-run-3","ts":"2026-11-26T00:18:23Z","result":"pending"}
 {"id":"post:mastodon:B09:pet-intake-v1","op":"post_status","channel":"mastodon.social","business":"B09","operator":"scheduled-run-3","ts":"2026-11-26T00:18:23Z","result":"pending"}
+{"id":"post:dev:B01:wedding-toast-outline-v1","op":"publish_article","channel":"dev.to","business":"B01","ts":"2026-11-26T00:18:52Z","result":"published","article_id":5120039,"url":"https://dev.to/sprintshelf/a-wedding-toast-outline-you-can-finish-in-an-hour-four-structures-2mk4"}
+{"id":"post:mastodon:B04:guest-messages-v1","op":"post_status","channel":"mastodon.social","ts":"2026-11-26T00:18:52Z","result":"published","url":"https://mastodon.social/@sprintshelf/117679871272211338"}
+{"id":"post:mastodon:B09:pet-intake-v1","op":"post_status","channel":"mastodon.social","ts":"2026-11-26T00:18:53Z","result":"published","url":"https://mastodon.social/@sprintshelf/117679871298204022"}
