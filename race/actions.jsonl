@@ -95,3 +95,7 @@
 {"id": "deploy:site:netlify:v2-guides", "op": "deploy_site", "channel": "netlify", "ts": "2026-11-25T02:53:45Z", "result": "done", "pages": 22, "verified": "home, guides, sitemap return 200; IndexNow submitted (202)"}
 {"id": "deploy:site:netlify:v3-b05-b06-guides", "op": "deploy_site", "channel": "netlify", "ts": "2026-11-25T03:20:00Z", "result": "done", "pages": 24, "verified": "home 200; IndexNow 200; added B06 guide etsy-listing-title-checklist and redeployed with B05 guide"}
 {"ts": "2026-11-25T19:50:00Z", "action": "copy_test", "targets": {"FlYhiWg2yWS7b9coz0phOg==": "Podcast Guest Pitch Email Pack", "oH7JWuVaamUaL9nrDUbaAQ==": "10-Minute Wedding Toast Kit"}, "change": "opening paragraph rewritten, price unchanged", "before_file": "race/copytest-2026-11-25.md", "review_after": "2026-11-29"}
+{"id":"run:claim:2026-11-26T0017Z","op":"claim_run","operator":"scheduled-run-3","ts":"2026-11-26T00:18:23Z","result":"claimed"}
+{"id":"post:dev:B01:wedding-toast-outline-v1","op":"publish_article","channel":"dev.to","business":"B01","operator":"scheduled-run-3","ts":"2026-11-26T00:18:23Z","result":"pending"}
+{"id":"post:mastodon:B04:guest-messages-v1","op":"post_status","channel":"mastodon.social","business":"B04","operator":"scheduled-run-3","ts":"2026-11-26T00:18:23Z","result":"pending"}
+{"id":"post:mastodon:B09:pet-intake-v1","op":"post_status","channel":"mastodon.social","business":"B09","operator":"scheduled-run-3","ts":"2026-11-26T00:18:23Z","result":"pending"}
