@@ -90,3 +90,12 @@
 - Filled the B01-B10 gap in race/businesses/ (generated from race/assets meta and state.json; B11-B15 kept).
 - Not done, owner decisions needed: approve per-business DEV/Mastodon accounts; approve replacing "Sprint Shelf" in product copy; confirm per-business Netlify URLs; Gumroad payout remediation.
 - Next run: if the owner confirms an account for a business in the thread, publish that business's first DEV article or Mastodon post from its channel plan (the brief's caps apply). Otherwise keep the metrics snapshot and scoreboard current and make no public writes.
+
+## Run 6 (2026-11-27T12:18Z, scheduled, five-business structure)
+- Read RACE_BRIEF.md, the state branch, and the plan/channel notes from branch claude/project-thread-ob02yx. launch.json present; no STOP or COMPLETE flag; cutoff 2026-12-10T00:17:55Z.
+- Orders: Gumroad /v2/sales is empty (all-time). Verified net $0 for all five businesses. Race inbox not checked here: the only Gmail connector available is the personal one, which the brief forbids, so no race-inbox check was run.
+- Metrics snapshot refreshed (race/metrics/latest.json). No change in views, reactions or sales since run 5.
+- Gumroad API still lists 10 products, not 15 (B01-B05 storefront URLs are not in the listing). Reconcile before counting any sale.
+- Posting HELD. The project thread has no new owner confirmation for any business account, so no DEV or Mastodon posts and no Gumroad copy edits went out.
+- Still owner-owned: per-business DEV/Mastodon accounts, approval to replace "Sprint Shelf" in product copy, per-business Netlify URLs, Gumroad payout identity step, and the duplicate posts from 2026-11-26 18:08-18:16Z.
+- Copy test (B01, B10) judge on or after 2026-11-29. No price changes until then.

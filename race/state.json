@@ -145,8 +145,8 @@
  ],
  "verified_net_sales_usd": 0,
  "spend_usd": 0,
- "last_run_utc": "2026-11-27T00:18:00Z",
- "run_count": 5,
+ "last_run_utc": "2026-11-27T12:18:31Z",
+ "run_count": 6,
  "verification": {
   "state_rw": "pass",
   "gumroad_api": "pass (preflight)",

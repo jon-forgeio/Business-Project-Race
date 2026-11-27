@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-27T00:18:10Z",
+ "generated_utc": "2026-11-27T12:18:31Z",
  "gumroad_products": [
   {
    "name": "LinkedIn Headline and About Section Template Kit",
@@ -85,6 +85,46 @@
  "gumroad_sales_listed": 0,
  "dev_articles": [
   {
+   "id": 5129381,
+   "title": "How to Write Fantasy League Rules People Actually Read",
+   "views": 0,
+   "reactions": 0,
+   "comments": 0,
+   "url": "https://dev.to/sprintshelf/how-to-write-fantasy-league-rules-people-actually-read-21gg"
+  },
+  {
+   "id": 5129304,
+   "title": "How to Write a Parent Email About a Behavior Concern Without Sounding Alarmed",
+   "views": 0,
+   "reactions": 0,
+   "comments": 0,
+   "url": "https://dev.to/sprintshelf/how-to-write-a-parent-email-about-a-behavior-concern-without-sounding-alarmed-3ach"
+  },
+  {
+   "id": 5129303,
+   "title": "A One-Page Packing and Shipping SOP for a Small Shop",
+   "views": 0,
+   "reactions": 0,
+   "comments": 0,
+   "url": "https://dev.to/sprintshelf/a-one-page-packing-and-shipping-sop-for-a-small-shop-2d0l"
+  },
+  {
+   "id": 5129272,
+   "title": "A Six-Week Moving Timeline That Keeps the Last Week Calm",
+   "views": 0,
+   "reactions": 0,
+   "comments": 0,
+   "url": "https://dev.to/sprintshelf/a-six-week-moving-timeline-that-keeps-the-last-week-calm-kib"
+  },
+  {
+   "id": 5129271,
+   "title": "Resume Bullets That Show Impact: A Three-Part Rewrite You Can Do Tonight",
+   "views": 0,
+   "reactions": 0,
+   "comments": 0,
+   "url": "https://dev.to/sprintshelf/resume-bullets-that-show-impact-a-three-part-rewrite-you-can-do-tonight-4okf"
+  },
+  {
    "id": 5126828,
    "title": "A Six-Week Moving Timeline That Keeps the Last Week Calm",
    "views": 0,
@@ -127,7 +167,7 @@
   {
    "id": 5122359,
    "title": "Resume Bullets That Show Impact: A Three-Part Rewrite You Can Do Tonight",
-   "views": 10,
+   "views": 20,
    "reactions": 0,
    "comments": 0,
    "url": "https://dev.to/sprintshelf/resume-bullets-that-show-impact-a-three-part-rewrite-you-can-do-tonight-58a4"
@@ -159,9 +199,44 @@
  ],
  "mastodon": {
   "followers": 0,
-  "statuses": 13
+  "statuses": 18
  },
  "mastodon_posts": [
+  {
+   "id": "117686438947270624",
+   "url": "https://mastodon.social/@sprintshelf/117686438947270624",
+   "favourites": 0,
+   "boosts": 1,
+   "replies": 0
+  },
+  {
+   "id": "117686438852412365",
+   "url": "https://mastodon.social/@sprintshelf/117686438852412365",
+   "favourites": 0,
+   "boosts": 0,
+   "replies": 0
+  },
+  {
+   "id": "117686438733280572",
+   "url": "https://mastodon.social/@sprintshelf/117686438733280572",
+   "favourites": 0,
+   "boosts": 0,
+   "replies": 0
+  },
+  {
+   "id": "117686438642954300",
+   "url": "https://mastodon.social/@sprintshelf/117686438642954300",
+   "favourites": 0,
+   "boosts": 0,
+   "replies": 0
+  },
+  {
+   "id": "117686438529040727",
+   "url": "https://mastodon.social/@sprintshelf/117686438529040727",
+   "favourites": 0,
+   "boosts": 0,
+   "replies": 0
+  },
   {
    "id": "117684110134276839",
    "url": "https://mastodon.social/@sprintshelf/117684110134276839",
