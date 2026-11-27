@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-26T12:18:47Z",
+ "generated_utc": "2026-11-27T00:18:10Z",
  "gumroad_products": [
   {
    "name": "LinkedIn Headline and About Section Template Kit",
@@ -85,6 +85,38 @@
  "gumroad_sales_listed": 0,
  "dev_articles": [
   {
+   "id": 5126828,
+   "title": "A Six-Week Moving Timeline That Keeps the Last Week Calm",
+   "views": 0,
+   "reactions": 0,
+   "comments": 0,
+   "url": "https://dev.to/sprintshelf/a-six-week-moving-timeline-that-keeps-the-last-week-calm-28ad"
+  },
+  {
+   "id": 5126814,
+   "title": "Resume Bullets That Show Impact: A Three-Part Rewrite You Can Do Tonight",
+   "views": 0,
+   "reactions": 0,
+   "comments": 0,
+   "url": "https://dev.to/sprintshelf/resume-bullets-that-show-impact-a-three-part-rewrite-you-can-do-tonight-4kn6"
+  },
+  {
+   "id": 5126795,
+   "title": "A Six-Week Moving Timeline That Keeps the Last Week Calm",
+   "views": 0,
+   "reactions": 0,
+   "comments": 0,
+   "url": "https://dev.to/sprintshelf/a-six-week-moving-timeline-that-keeps-the-last-week-calm-5gfc"
+  },
+  {
+   "id": 5126788,
+   "title": "Resume Bullets That Show Impact: A Three-Part Rewrite You Can Do Tonight",
+   "views": 13,
+   "reactions": 0,
+   "comments": 1,
+   "url": "https://dev.to/sprintshelf/resume-bullets-that-show-impact-a-three-part-rewrite-you-can-do-tonight-2mn"
+  },
+  {
    "id": 5122364,
    "title": "The First Week After a Layoff: A Calm, Day-by-Day Plan",
    "views": 20,
@@ -127,9 +159,58 @@
  ],
  "mastodon": {
   "followers": 0,
-  "statuses": 6
+  "statuses": 13
  },
  "mastodon_posts": [
+  {
+   "id": "117684110134276839",
+   "url": "https://mastodon.social/@sprintshelf/117684110134276839",
+   "favourites": 0,
+   "boosts": 0,
+   "replies": 0
+  },
+  {
+   "id": "117684105753558824",
+   "url": "https://mastodon.social/@sprintshelf/117684105753558824",
+   "favourites": 0,
+   "boosts": 0,
+   "replies": 0
+  },
+  {
+   "id": "117684101374440155",
+   "url": "https://mastodon.social/@sprintshelf/117684101374440155",
+   "favourites": 0,
+   "boosts": 0,
+   "replies": 0
+  },
+  {
+   "id": "117684093855631061",
+   "url": "https://mastodon.social/@sprintshelf/117684093855631061",
+   "favourites": 0,
+   "boosts": 0,
+   "replies": 0
+  },
+  {
+   "id": "117684089463553247",
+   "url": "https://mastodon.social/@sprintshelf/117684089463553247",
+   "favourites": 0,
+   "boosts": 0,
+   "replies": 0
+  },
+  {
+   "id": "117684083091481412",
+   "url": "https://mastodon.social/@sprintshelf/117684083091481412",
+   "favourites": 0,
+   "boosts": 0,
+   "replies": 0
+  },
+  {
+   "id": "117684078704956365",
+   "url": "https://mastodon.social/@sprintshelf/117684078704956365",
+   "favourites": 0,
+   "boosts": 0,
+   "replies": 0
+  },
   {
    "id": "117681492827508195",
    "url": "https://mastodon.social/@sprintshelf/117681492827508195",

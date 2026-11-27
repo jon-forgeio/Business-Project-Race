@@ -145,22 +145,24 @@
  ],
  "verified_net_sales_usd": 0,
  "spend_usd": 0,
- "last_run_utc": "2026-11-26T12:19:49Z",
- "run_count": 4,
+ "last_run_utc": "2026-11-27T00:18:00Z",
+ "run_count": 5,
  "verification": {
   "state_rw": "pass",
   "gumroad_api": "pass (preflight)",
   "polar_api": "pass (preflight)",
   "gmail": "pass (preflight)",
   "file_attach": "gumroad no API file attach; deliver via content/redirect or Polar",
-  "payment_delivery_evidence": "unverified until first real sale"
+  "payment_delivery_evidence": "unverified until first real sale",
+  "race_inbox": "not checked (no race-account connector verified in this run)"
  },
  "blockers": [
+  "UNEXPLAINED POSTS 2026-11-26 18:08-18:16Z: 4 DEV articles and 7 Mastodon posts went out under sprintshelf during the posting hold. Several are exact duplicates (2 DEV titles twice; 3 Mastodon texts sent 2-3 times). Cause not recorded. Owner to decide on removing duplicates; the agent has not deleted anything.",
   "Gumroad payout: the owner must complete the SSN/identity step at https://gumroad.com/settings/payments/remediation. Owner handles this directly; the agent never handles it.",
   "Posting held for all five businesses until each has its own DEV/Mastodon account and the owner confirms in the thread.",
   "Gumroad product copy still says 'Original work by Sprint Shelf'. Changing it to the business names is a public edit; needs owner approval, and waits until the B01/B10 copy test is judged (about 2026-11-29).",
   "Per-business Netlify site URLs are not recorded in the repo and could not be verified from this run. The only site in state is sprintshelf.netlify.app (200 at 2026-11-26T12:18Z).",
-  "Race inbox (jon.business.race@gmail.com) not checked this run: the only Gmail connector in this session was not verified as the race account, and the personal connector is barred by the brief. Gumroad /v2/sales was checked instead: empty."
+  "Gumroad API /v2/products lists 10 products, not 15. B01-B05 storefront URLs return 200 but are absent from the API listing. Reconcile before any sales count."
  ],
  "business_groups": {
   "Second Draft Careers": {
@@ -205,5 +207,5 @@
   }
  },
  "structure": "five_businesses (owner-approved 2026-11-26; public name = business name; Sprint Shelf is no longer the public brand)",
- "posting": "held: no DEV or Mastodon posts until a business has its own account and the owner confirms in the thread (race/notes/RUN_STATUS_2026-11-26.md on branch claude/project-thread-ob02yx)"
+ "posting": "held: no new DEV or Mastodon posts until a business has its own account and the owner confirms in the thread. Run 5 posted nothing."
 }
