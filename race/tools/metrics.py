@@ -11,10 +11,15 @@ def get(url, hdr):
         return None
 
 snap = {"generated_utc": time.strftime('%FT%TZ', time.gmtime())}
-g = get('https://api.gumroad.com/v2/products', 'Authorization: Bearer proxy-injected') or {}
+# Gumroad pages at 10 products; follow next_page_url so every product is counted.
+gum, nxt, pages = [], '/v2/products', 0
+while nxt and pages < 10:
+    g = get('https://api.gumroad.com' + nxt if nxt.startswith('/') else nxt, 'Authorization: Bearer proxy-injected') or {}
+    gum.extend(g.get("products", []))
+    nxt, pages = g.get("next_page_url"), pages + 1
 snap["gumroad_products"] = [{"name": p.get("name"), "published": p.get("published"), "price": p.get("formatted_price"),
                              "sales_count": p.get("sales_count"), "sales_usd_cents": p.get("sales_usd_cents"), "url": p.get("short_url")}
-                            for p in g.get("products", [])]
+                            for p in gum]
 s = get('https://api.gumroad.com/v2/sales', 'Authorization: Bearer proxy-injected') or {}
 snap["gumroad_sales_listed"] = len(s.get("sales", []))
 d = get('https://dev.to/api/articles/me/all', 'api-key: proxy-injected') or []

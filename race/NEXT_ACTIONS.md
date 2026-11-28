@@ -99,3 +99,12 @@
 - Posting HELD. The project thread has no new owner confirmation for any business account, so no DEV or Mastodon posts and no Gumroad copy edits went out.
 - Still owner-owned: per-business DEV/Mastodon accounts, approval to replace "Sprint Shelf" in product copy, per-business Netlify URLs, Gumroad payout identity step, and the duplicate posts from 2026-11-26 18:08-18:16Z.
 - Copy test (B01, B10) judge on or after 2026-11-29. No price changes until then.
+
+## Run 7 (2026-11-28T12:18Z, scheduled, five-business structure)
+- Orders: Gumroad /v2/sales empty (all-time). Verified net $0 for all five businesses. Spend $0.
+- Gumroad API now lists all 15 products (metrics tool pagination fixed from the thread branch). The 10-vs-15 gap is closed.
+- Metrics snapshot (race/metrics/latest.json): DEV 14 articles, 9 unique titles, 73 views, 0 reactions. Mastodon 18 statuses, 0 favourites, 1 boost, 0 replies. Engagement is still zero, and the duplicate copies from the hold-window bursts are still live.
+- Posting stays held: no DEV or Mastodon posts (no per-business accounts or owner confirmation in the thread). Product copy changes wait for owner approval and the copy test judge (about 2026-11-29).
+- Race inbox not read in this run. The session's Gmail connector is not verified as jon.business.race@gmail.com, and the personal connector is never used.
+- Owner items still open: remove or keep the duplicate DEV and Mastodon posts (agent has not deleted anything); Gumroad payout identity step on the remediation page; per-business accounts; the Netlify URLs for Solo Ops Studio and Classroom & Family Desk.
+- Hours: about 84 of 360 elapsed (start 2026-11-25T00:17:55Z, cutoff 2026-12-10T00:17:55Z).

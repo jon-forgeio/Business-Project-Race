@@ -14,10 +14,10 @@ Totals: 15 products live with checkout. Verified net sales $0 (Gumroad /v2/sales
 
 Shared open items for all businesses:
 - Owner: 2026-11-26 18:08-18:16 UTC, 4 DEV articles and 7 Mastodon posts went out under sprintshelf during the hold, several as exact duplicates. Decide whether to remove the duplicates. Not deleted by the agent.
-- Gumroad API lists 10 products (B01-B05 missing from the listing although their storefront URLs return 200). Reconcile before counting sales.
+- Gumroad API lists all 15 products as of run 7 (pagination fixed). Listing gap closed; sales count still $0.
 - Owner: Gumroad payout identity step (remediation page). Not handled by the agent.
 - Owner: DEV/Mastodon accounts per business, and approval in the thread before posting resumes.
 - Product copy still reads "Original work by Sprint Shelf". Needs owner approval to change to the business names, after the copy test ends.
 - Per-business Netlify sites: URLs not recorded in the repo; not verified in this run.
 
-Last updated 2026-11-27T12:18Z (run 6). Gumroad /v2/sales still empty; $0 verified net. Posting still held. See open items below.
+Last updated 2026-11-28T12:18Z (run 7). Gumroad /v2/sales still empty; $0 verified net. Gumroad API now lists all 15 products. Posting still held (no owner confirmation in the thread). Run 7 made no public writes.
