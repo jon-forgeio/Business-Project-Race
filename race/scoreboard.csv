@@ -1,16 +1,6 @@
-business,verified_net_usd,status,link
-B01,0,live with checkout,https://businessrace.gumroad.com/l/rtbyanv
-B02,0,live with checkout,https://businessrace.gumroad.com/l/ovfudt
-B03,0,live with checkout,https://businessrace.gumroad.com/l/nhxmzf
-B04,0,live with checkout,https://businessrace.gumroad.com/l/upakjg
-B05,0,live with checkout,https://businessrace.gumroad.com/l/coiyeb
-B06,0,live with checkout,https://businessrace.gumroad.com/l/apfxk
-B07,0,live with checkout,https://businessrace.gumroad.com/l/sotpbv
-B08,0,live with checkout,https://businessrace.gumroad.com/l/stcfjq
-B09,0,live with checkout,https://businessrace.gumroad.com/l/btanaj
-B10,0,live with checkout,https://businessrace.gumroad.com/l/dtmjky
-B11,0,live with checkout,https://businessrace.gumroad.com/l/qotlkq
-B12,0,live with checkout,https://businessrace.gumroad.com/l/sditqz
-B13,0,live with checkout,https://businessrace.gumroad.com/l/fehfmm
-B14,0,live with checkout,https://businessrace.gumroad.com/l/pdklnr
-B15,0,live with checkout,https://businessrace.gumroad.com/l/vlbte
+business,products,verified_net_usd,status,gumroad_links
+Second Draft Careers,"B03;B05;B10;B15",0,live with checkout (one shared Gumroad store),"https://businessrace.gumroad.com/l/nhxmzf;https://businessrace.gumroad.com/l/coiyeb;https://businessrace.gumroad.com/l/dtmjky;https://businessrace.gumroad.com/l/vlbte"
+Hearth & Host,"B01;B04;B09;B12;B13",0,live with checkout (one shared Gumroad store),"https://businessrace.gumroad.com/l/rtbyanv;https://businessrace.gumroad.com/l/upakjg;https://businessrace.gumroad.com/l/btanaj;https://businessrace.gumroad.com/l/sditqz;https://businessrace.gumroad.com/l/fehfmm"
+Solo Ops Studio,"B02;B06;B08",0,live with checkout (one shared Gumroad store),"https://businessrace.gumroad.com/l/ovfudt;https://businessrace.gumroad.com/l/apfxk;https://businessrace.gumroad.com/l/stcfjq"
+Classroom & Family Desk,"B07;B11",0,live with checkout (one shared Gumroad store),"https://businessrace.gumroad.com/l/sotpbv;https://businessrace.gumroad.com/l/qotlkq"
+Game Night Co,"B14",0,live with checkout (one shared Gumroad store),"https://businessrace.gumroad.com/l/pdklnr"

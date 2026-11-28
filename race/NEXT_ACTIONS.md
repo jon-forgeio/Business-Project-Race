@@ -80,3 +80,11 @@
 - B15 redesigned as an instant LinkedIn Headline + About template kit ($12) and published with a cover: https://businessrace.gumroad.com/l/vlbte. All 15 businesses are now live with checkout. B11-B14 were created by run 3.
 - Owner blocker (payout only): Gumroad emailed that the account needs an SSN/identity step at https://gumroad.com/settings/payments/remediation. Sales continue; owner must complete it directly on Gumroad. Never ask for or handle SSN data.
 - Next: free guides + DEV/Mastodon content for B11-B15 (the new products have no content yet); upgrade B11-B15 descriptions like B01-B10; create race/businesses/Bxx.md for all 15.
+
+## Run 4 (2026-11-28T00:20Z, scheduled, five-business structure)
+- Orders: Gumroad /v2/sales empty; 15 products checked (metrics now paginates past 10). Verified net $0 for all five businesses. Race inbox not read this run.
+- Posting hold (race/notes/RUN_STATUS_2026-11-26.md) still in effect. No DEV or Mastodon posts made this run.
+- INCIDENT for owner: duplicate public posts went live after the hold. DEV: 14 live articles, 9 unique (5 extra copies). Mastodon: 18 live statuses, 7 extra copies. Bursts at 2026-11-26T18:08-18:16Z and 2026-11-27T04:09-04:25Z. Not in the action log. Source not identified. Nothing deleted or unpublished here. Owner should decide cleanup: DEV (api, published=false or delete) and Mastodon (delete statuses).
+- Scoreboard rewritten to one row per business (race/scoreboard.md and .csv). State gained business_groups and per-business group fields.
+- Metrics tool fixed to follow Gumroad pagination (it had been counting only 10 of 15 products). Snapshot refreshed.
+- Not done, needs owner: per-business Gumroad accounts (not verified, none created), per-business Netlify sites (not approved; only sprintshelf.netlify.app is in state), per-business account names for DEV and Mastodon (needed before any posting resumes), Gumroad payout identity step.
